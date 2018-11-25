@@ -1,2 +1,2 @@
-# GSoC-Email-Template
-GSoC Email Template
+# OpenMRS Email Template For GSoC Students
+## Live Preview
