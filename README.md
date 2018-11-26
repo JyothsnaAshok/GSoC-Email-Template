@@ -1,4 +1,4 @@
 # OpenMRS Email Template For GSoC Students
-![screns](https://user-images.githubusercontent.com/34093139/48984317-24982b80-f120-11e8-8acb-812a056f81d9.png)
+![ss](https://user-images.githubusercontent.com/34093139/49005955-02d58d80-f18e-11e8-8538-27549fb2e587.png)
 ## Live Preview
 https://jyothsnaashok.github.io/GSoC-Email-Template/
